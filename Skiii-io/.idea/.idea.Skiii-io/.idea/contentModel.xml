@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Skiii-io.1108355021.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/Scripts" t="Include">
+        <e p="CameraControl.cs" t="Include" />
+        <e p="CloudMovement.cs" t="Include" />
+        <e p="IntroCameraShift.cs" t="Include" />
+        <e p="SpriteChange.cs" t="Include" />
+        <e p="StartTextDisplay.cs" t="Include" />
+      </e>
+      <e p="Assets/SkierController.cs" t="Include" />
+      <e p="Assets/SkierSpriteChange.cs" t="Include" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Skiii-io.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

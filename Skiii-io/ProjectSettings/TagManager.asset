@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Skier
   layers:
   - Default
   - TransparentFX
@@ -49,4 +50,7 @@ TagManager:
     locked: 0
   - name: Front
     uniqueID: 1058385741
+    locked: 0
+  - name: BeforeFront
+    uniqueID: 591307647
     locked: 0
