@@ -1,9 +1,9 @@
-/Skiii-io/[Ll]ibrary/
-/Skiii-io/[Tt]emp/
-/Skiii-io/[Oo]bj/
-/Skiii-io/[Bb]uild/
-/Skiii-io/[Bb]uilds/
-/Assets/AssetStoreTools*
+Skiii-io/[Ll]ibrary/
+Skiii-io/[Tt]emp/
+Skiii-io/[Oo]bj/
+Skiii-io/[Bb]uild/
+Skiii-io/[Bb]uilds/
+Skiii-io/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
